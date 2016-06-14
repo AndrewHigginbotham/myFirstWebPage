@@ -1,0 +1,42 @@
+
+div{
+	height:100px;
+	margin: 10px;
+	padding: 10px;
+}
+
+div img{
+	width: 80%;
+	height: 80%;
+	padding: 1%;
+	border-style: inset;
+}
+.col1{
+	width:100px;
+}
+.col2{
+	position:relative;
+	left: 100px;
+	bottom: 130px;
+	width:100px;
+}
+
+.col3{
+	position:relative;
+	left:200px;
+	bottom: 260px;
+	width:100px;
+}
+
+#header{
+	position:fixed;
+	left:30%;
+	top:0px;
+}
+#bgbud{
+	position:absolute;
+	left:50%;
+	top: 100px;
+	width :100px;
+	height :100px;
+}
